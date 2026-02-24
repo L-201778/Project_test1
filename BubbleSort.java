@@ -43,6 +43,6 @@ public class BubbleSort {
             System.out.print(num + " ");
         }
         System.out.println();
-        system.out.println();
+        System.out.println();
     }
 }
