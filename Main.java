@@ -12,5 +12,8 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("名字：张三");
         System.out.println("学校：京大");
+
+        // Introduce Azure as an agent for resource deployment / 将 Azure 作为 agent，介绍资源部署
+        AzureAgent.introduce();
     }
 }
