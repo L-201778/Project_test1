@@ -44,6 +44,6 @@ public class BubbleSort {
         }
         System.out.println();
         System.out.println();
-        system.out.println();
+
     }
 }
