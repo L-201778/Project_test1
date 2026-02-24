@@ -21,6 +21,18 @@
             <artifactId>sentry</artifactId>
             <version>7.19.0</version>
         </dependency>
+        <!-- Azure Resource Manager SDK for resource deployment introduction
+             Azure 资源管理器 SDK，用于资源部署介绍 -->
+        <dependency>
+            <groupId>com.azure.resourcemanager</groupId>
+            <artifactId>azure-resourcemanager</artifactId>
+            <version>2.33.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.azure</groupId>
+            <artifactId>azure-identity</artifactId>
+            <version>1.11.4</version>
+        </dependency>
     </dependencies>
 
     <build>
